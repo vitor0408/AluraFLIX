@@ -13,21 +13,21 @@
 <body>
     <header>GUIMINAMFLIX</header>
 
-    <section class="chamada">
+<section class="chamada">
         <div class="chamada-texto">
             <h1>ATRAVÉS DO ARANHAVERSO</h1>
             <p>#homem-aranha</p>
         </div>
 
-        <div>
+<div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-    </section>
+</section>
 
-    <section class="categoria">
+<section class="categoria">
         <h2>Filmes e séries</h2>
         <div class="categoria-videos">
             <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
